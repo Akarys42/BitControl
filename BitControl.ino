@@ -8,7 +8,7 @@ Joystick_ Joystick[1] = {
 };
 
 //////////////////////////////////////////
-int pin = 3;
+int pin = 4;
 const int line = 6;
 const int column = 4;
 const int joystick = 3;

@@ -1,4 +1,4 @@
-// By Matteo Bertucci (https://github.com/Akarys42)
+// By Amber Bertucci (https://github.com/Akarys42)
 // Under MIT licence
 
 #include "Joystick.h"
